@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cba6c0b7-24e5-4eb6-9122-a5eb9cdb8b72" name="默认的" comment="cesh">
+      <change afterPath="$PROJECT_DIR$/entity/test001.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test001.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c3d234c6-9462-4677-a9a3-8a6418495c77" />
+  </component>
+  <component name="ProjectId" id="1eJYyNGTh9DKyD1ZQ8h1FmJhT6W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build test001.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/entity/test001.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test001.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\liuha\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba6c0b7-24e5-4eb6-9122-a5eb9cdb8b72" name="默认的" comment="" />
+      <created>1594041415125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594041415125</updated>
+      <workItem from="1594041416347" duration="441000" />
+      <workItem from="1594041865635" duration="45000" />
+    </task>
+    <task id="LOCAL-00001" summary="ceshi">
+      <created>1594041661269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594041661269</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cesh">
+      <created>1594041777057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594041777057</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:F:/Go_WorkSpace/test001/entity" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ceshi" />
+    <MESSAGE value="cesh" />
+    <option name="LAST_COMMIT_MESSAGE" value="cesh" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1553" y="520" key="FileChooserDialogImpl" timestamp="1594041532128">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1553" y="520" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594041532128" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1594041859445">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859445" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1594041859444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859444" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1594041859444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859444" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1594041859444">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859444" />
+    <state x="1274" y="424" key="SettingsEditor" timestamp="1594041588975">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1274" y="424" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594041588975" />
+    <state x="1365" y="499" key="Vcs.Push.Dialog.v2" timestamp="1594041782945">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1365" y="499" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594041782945" />
+    <state x="1173" y="380" width="1200" height="799" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594041859462">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1173" y="380" width="1200" height="799" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859462" />
+    <state x="1586" y="692" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594041804440">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1586" y="692" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594041804440" />
+    <state x="1429" y="372" key="run.anything.popup" timestamp="1594041516010">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1429" y="372" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594041516010" />
+    <state x="1603" y="570" key="svn.repositoryBrowser" timestamp="1594041500280">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1603" y="570" key="svn.repositoryBrowser/0.0.2560.1400@0.0.2560.1400" timestamp="1594041500280" />
+    <state x="1563" y="541" key="svn4idea.import.options" timestamp="1594041498639">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1563" y="541" key="svn4idea.import.options/0.0.2560.1400@0.0.2560.1400" timestamp="1594041498639" />
+  </component>
+</project>
