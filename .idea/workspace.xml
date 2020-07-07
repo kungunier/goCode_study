@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba6c0b7-24e5-4eb6-9122-a5eb9cdb8b72" name="默认的" comment="cesh">
+    <list default="true" id="cba6c0b7-24e5-4eb6-9122-a5eb9cdb8b72" name="默认的" comment="GO语言说明">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/test001.go" beforeDir="false" afterPath="$PROJECT_DIR$/entity/test001.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/test001.go" beforeDir="false" afterPath="$PROJECT_DIR$/entity/goExplain.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1594041416347" duration="441000" />
       <workItem from="1594041865635" duration="45000" />
       <workItem from="1594101903063" duration="333000" />
-      <workItem from="1594102250813" duration="572000" />
+      <workItem from="1594102250813" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="ceshi">
       <created>1594041661269</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594102029540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="GO语言说明">
+      <created>1594102875857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594102875857</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +167,8 @@
     <MESSAGE value="ceshi" />
     <MESSAGE value="cesh" />
     <MESSAGE value="Mac版本提交测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mac版本提交测试" />
+    <MESSAGE value="GO语言说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="GO语言说明" />
   </component>
   <component name="WindowStateProjectService">
     <state x="760" y="179" key="#GOPATH" timestamp="1594101947137">
@@ -200,10 +208,10 @@
     </state>
     <state x="466" y="184" key="SettingsEditor/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594102237103" />
     <state x="1274" y="424" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594041588975" />
-    <state x="504" y="338" key="Vcs.Push.Dialog.v2" timestamp="1594102046757">
+    <state x="504" y="338" key="Vcs.Push.Dialog.v2" timestamp="1594102933274">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="504" y="338" key="Vcs.Push.Dialog.v2/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594102046757" />
+    <state x="504" y="338" key="Vcs.Push.Dialog.v2/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594102933274" />
     <state x="1365" y="499" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594041782945" />
     <state x="1173" y="380" width="1200" height="799" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594041859462">
       <screen x="0" y="0" width="2560" height="1400" />
