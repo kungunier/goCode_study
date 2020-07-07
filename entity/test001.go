@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("ceshi")
+	fmt.Println("测试程序是否跑通")
 
 }

@@ -11,12 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba6c0b7-24e5-4eb6-9122-a5eb9cdb8b72" name="默认的" comment="cesh">
-      <change afterPath="$PROJECT_DIR$/entity/test001.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +25,19 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="c3d234c6-9462-4677-a9a3-8a6418495c77" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1eJYyNGTh9DKyD1ZQ8h1FmJhT6W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,6 +52,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -81,6 +86,7 @@
       <updated>1594041415125</updated>
       <workItem from="1594041416347" duration="441000" />
       <workItem from="1594041865635" duration="45000" />
+      <workItem from="1594101903063" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="ceshi">
       <created>1594041661269</created>
@@ -150,6 +156,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="cesh" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="760" y="179" key="#GOPATH" timestamp="1594101947137">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="760" y="179" key="#GOPATH/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594101947137" />
+    <state x="760" y="450" key="#GOROOT" timestamp="1594101922763">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="760" y="450" key="#GOROOT/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594101922763" />
     <state x="1553" y="520" key="FileChooserDialogImpl" timestamp="1594041532128">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
