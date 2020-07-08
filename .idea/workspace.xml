@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba6c0b7-24e5-4eb6-9122-a5eb9cdb8b72" name="默认的" comment="GO语言说明">
+      <change afterPath="$PROJECT_DIR$/entity/goConstant.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b73eac4d-cb7b-461e-8ac7-a8e8b71c0534" />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -37,7 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1eJYyNGTh9DKyD1ZQ8h1FmJhT6W" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +63,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Go Build.go build goCase.go">
+  <component name="RunManager" selected="Go Build.go build goConstant.go">
     <configuration name="go build goCase.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="test001" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -66,11 +72,27 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build goConstant.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/entity/goConstant.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build goExplain.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="test001" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/entity/goExplain.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goVariable.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test001" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/entity/goVariable.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -84,6 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build goConstant.go" />
+        <item itemvalue="Go Build.go build goVariable.go" />
         <item itemvalue="Go Build.go build goCase.go" />
         <item itemvalue="Go Build.go build goExplain.go" />
         <item itemvalue="Go Build.go build test001.go" />
@@ -105,7 +129,7 @@
       <workItem from="1594101903063" duration="333000" />
       <workItem from="1594102250813" duration="1805000" />
       <workItem from="1594104072800" duration="2598000" />
-      <workItem from="1594107114851" duration="113000" />
+      <workItem from="1594107114851" duration="4612000" />
     </task>
     <task id="LOCAL-00001" summary="ceshi">
       <created>1594041661269</created>
@@ -149,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594106455868</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改文件名称">
+      <created>1594109403156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594109403156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +234,8 @@
     <MESSAGE value="Mac版本提交测试" />
     <MESSAGE value="GO语言说明" />
     <MESSAGE value="声明变量的基本使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="声明变量的基本使用" />
+    <MESSAGE value="修改文件名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改文件名称" />
   </component>
   <component name="WindowStateProjectService">
     <state x="760" y="179" key="#GOPATH" timestamp="1594101947137">
@@ -222,35 +254,35 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1553" y="520" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594041532128" />
-    <state width="939" height="265" key="GridCell.Tab.0.bottom" timestamp="1594106998256">
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom" timestamp="1594191687533">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="939" height="265" key="GridCell.Tab.0.bottom/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594106998256" />
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594191687533" />
     <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859445" />
-    <state width="939" height="265" key="GridCell.Tab.0.center" timestamp="1594106998256">
+    <state width="1878" height="265" key="GridCell.Tab.0.center" timestamp="1594191687532">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="939" height="265" key="GridCell.Tab.0.center/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594106998256" />
+    <state width="1878" height="265" key="GridCell.Tab.0.center/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594191687532" />
     <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859444" />
-    <state width="939" height="265" key="GridCell.Tab.0.left" timestamp="1594106998255">
+    <state width="1878" height="265" key="GridCell.Tab.0.left" timestamp="1594191687531">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="939" height="265" key="GridCell.Tab.0.left/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594106998255" />
+    <state width="1878" height="265" key="GridCell.Tab.0.left/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594191687531" />
     <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859444" />
-    <state width="939" height="265" key="GridCell.Tab.0.right" timestamp="1594106998256">
+    <state width="1878" height="265" key="GridCell.Tab.0.right" timestamp="1594191687532">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="939" height="265" key="GridCell.Tab.0.right/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594106998256" />
+    <state width="1878" height="265" key="GridCell.Tab.0.right/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594191687532" />
     <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594041859444" />
-    <state x="466" y="184" key="SettingsEditor" timestamp="1594107227159">
+    <state x="466" y="184" key="SettingsEditor" timestamp="1594109460632">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="466" y="184" key="SettingsEditor/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594107227159" />
+    <state x="466" y="184" key="SettingsEditor/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594109460632" />
     <state x="1274" y="424" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1594041588975" />
-    <state x="504" y="338" key="Vcs.Push.Dialog.v2" timestamp="1594107183285">
+    <state x="504" y="338" key="Vcs.Push.Dialog.v2" timestamp="1594174500462">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="504" y="338" key="Vcs.Push.Dialog.v2/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594107183285" />
+    <state x="504" y="338" key="Vcs.Push.Dialog.v2/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594174500462" />
     <state x="1365" y="499" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1594041782945" />
     <state x="1173" y="380" width="1200" height="799" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594041859462">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -264,6 +296,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1429" y="372" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1594041516010" />
+    <state x="625" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1594111613763">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="625" y="239" width="670" height="676" key="search.everywhere.popup/-1440.73.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1594111613763" />
     <state x="1603" y="570" key="svn.repositoryBrowser" timestamp="1594041500280">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
