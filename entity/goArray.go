@@ -44,6 +44,31 @@ import "fmt"
 	var arrayName [ x ][ y ] variable_type
 */
 
+/*
+	Go 语言向函数传递数组
+	如果你想向函数传递数组参数，你需要在函数定义时，声明形参为数组，我们可以通过以下两种方式来声明：
+
+	方式一
+	形参设定数组大小：
+
+	void myFunction(param [10]int)
+	{
+	.
+	.
+	.
+	}
+
+	方式二
+	形参未设定数组大小：
+
+	void myFunction(param []int)
+	{
+	.
+	.
+	.
+	}
+*/
+
 func main() {
 
 	/* 声明数组 */
@@ -84,5 +109,21 @@ func main() {
 	//访问二维数组
 	val1 := twoArray1[1][3]
 	fmt.Println(val1)
+
+	//二维数组可以使用循环嵌套来输出元素
+	/* 数组5行2列 */
+	var a = [5][2]int{
+		{0, 0},
+		{1, 2},
+		{2, 4},
+		{3, 6},
+		{4, 8},
+	}
+	var i1, j1 int
+	for i1 = 0; i1 < 5; i1++ {
+		for j1 = 0; j1 < 2; j1++ {
+			fmt.Printf("a[%d][%d] = %d\n", i1, j1, a[i1][j1])
+		}
+	}
 
 }
