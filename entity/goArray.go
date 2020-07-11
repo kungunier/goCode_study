@@ -126,4 +126,29 @@ func main() {
 		}
 	}
 
+	/*
+		Go 语言向函数传递数组
+	*/
+	var ba1 = [5]int{1000, 2, 3, 17, 50}
+	var avg float32
+	/* 数组作为参数传递给函数 */
+	avg = getAverage(ba1, 5)
+	/* 输出返回的平均值 */
+	fmt.Printf("平均值为：%f\n", avg)
+
+}
+
+/*
+	函数接收整型数组参数，另一个参数指定了数组元素的个数，并返回平均值
+*/
+func getAverage(arr [5]int, size int) float32 {
+
+	var i, sum int
+	var avg float32
+	for i = 0; i < size; i++ {
+		sum += arr[i]
+	}
+
+	avg = float32(sum) / float32(size)
+	return avg
 }
